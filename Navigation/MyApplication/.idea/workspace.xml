@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="721745d6-f4f5-42d0-ba1c-e89fd85ac7cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/androidTest/java/com/aritana/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/java/com/aritana/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/java/com/aritana/myapplication/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/java/com/aritana/myapplication/ui/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/java/com/aritana/myapplication/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/java/com/aritana/myapplication/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/app/src/test/java/com/aritana/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jetpack-compose-basics/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2GubxCbHiAvYZ9kVXCBYHpZj4QU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="cidr.known.project.marker" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="721745d6-f4f5-42d0-ba1c-e89fd85ac7cf" name="Default Changelist" comment="" />
+      <created>1667241660285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667241660285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
